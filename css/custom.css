@@ -1,0 +1,33 @@
+.section-padding-top-parallax{
+	padding-top:200px;
+	padding-bottom:200px;
+}
+
+.section-padding-top-parallax-service{
+	padding-top:140px;
+	padding-bottom:140px;
+}
+
+.section-padding-top-bottom-brends{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+header{
+	overflow:hidden;
+}
+
+.page-lang{
+	position: absolute;
+	left: auto;
+	top: 35%;
+	bottom: auto;
+	right: 7%;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(-50%) translateY(-50%);
+	-o-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+	width: 50px;
+	height: 2px;
+}
